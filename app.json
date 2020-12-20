@@ -1,0 +1,12 @@
+{
+  "name": "now-playing",
+  "displayName": "now-playing",
+  "expo": {
+    "name": "now-playing",
+    "slug": "now-playing",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
